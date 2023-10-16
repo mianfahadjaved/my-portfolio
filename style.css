@@ -1,0 +1,82 @@
+#header {
+    background-color: #033e81;
+    padding: 1rem 2rem;
+}
+
+#headertext {
+    font-family: 'Courier New', monospace;
+    color: white;
+}
+
+#bluebtn {
+    font-family: 'Courier New', monospace;
+    color: white;
+    background-color: #033e81;
+    width: 150px;
+    font-weight: normal; 
+}
+
+#paddingleft {
+    padding: 0 0 0 50px;
+}
+
+#block1 {
+    font-family: 'Courier New', monospace;
+    background-color: #195eac;
+}
+
+#block1content {
+    color: white;
+    text-align: left;
+    padding: 150px 100px 100px 100px; /* top right bottom left */
+}
+
+#projectblock1content {
+    color: white;
+    text-align: left;
+    padding: 50px 100px 100px 100px; /* top right bottom left */
+}
+
+#block2 {
+    font-family: 'Courier New', monospace;
+    background-color: #f3f6f9;
+    font-weight: bold;
+}
+
+#block2content {
+    color: #033e81;
+    text-align: left;
+    padding: 150px 100px 100px 100px; /* top right bottom left */
+}
+
+#footerheading {
+    font-family: 'Courier New', monospace;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+#footertext {
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+}
+
+.nav-link {
+    color: #f3f6f9;
+    margin-right: 10px;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #68a9e2;
+}
+
+#paddingtop {
+    padding-top: 1.5rem;
+}
+
+#projectcard {
+    background-color: #024ca1;
+    color: #f3f6f9;
+    font-family: 'Courier New', monospace;
+}
